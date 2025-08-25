@@ -3,3 +3,5 @@ VVCE
 Mysuru
 this is my git lab
 devops first lab
+good morning
+nice day
